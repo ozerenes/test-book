@@ -36,7 +36,7 @@ export function CustomAppShell() {
           leftSection={<IconHome style={{ width: 20, height: 20 }} />}
         />
         <NavLink
-          href="/test"
+          href="/books"
           label="Test"
           leftSection={<IconBook style={{ width: 20, height: 20 }} />}
         />
